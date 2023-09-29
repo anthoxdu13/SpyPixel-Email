@@ -9,6 +9,6 @@ Lancer le script sur un serveur personnel,
 
 intégré : 
 
-<img scr="votre site/ ip:port /1.png"
+<img scr="votre site/ ip:port /1.png">
 
 Cela vas afficher une image invisible de 1x1 pixel.
